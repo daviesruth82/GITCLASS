@@ -11,5 +11,11 @@ p {
 h4{
     color:lawngreen;
     font-size: larger;
-    
+
 }
+.card{
+    background-color:lightseagreen;
+    width:200px;
+    height:fit-content;
+}
+
