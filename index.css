@@ -1,23 +1,23 @@
 body {
-  background-color: rgb(91, 13, 88);
+  background-color: rgb(234, 125, 230);
   width: 100%;
   height: 100%;
 }
 p {
   font-style: oblique;
-  color: lightyellow;
+  color: rgb(225, 225, 21);
   font-size: larger;
 }
 h4{
-    color:rgb(104, 188, 20);
+    color:rgb(176, 236, 116);
     font-size: larger;
 
 }
 .card{
-    background-color:lightseagreen;
+    background-color:rgb(98, 126, 125);
     width:200px;
     height:fit-content;
 }
 h1{
-    color:lightsalmon;
+    color:rgb(232, 87, 29);
 }
